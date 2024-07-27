@@ -20,6 +20,7 @@ Cloud Storage is ideal for storing and retrieving large amounts of unstructured 
 ### Cloud Bigtable
 When you need to handle massive datasets with high performance and low latency, especially for time-series or analytical workloads.
 ## Let's compare Cloud Datastore, Cloud Storage, and Cloud Bigtable
+#### Key Differences
 ![image](https://github.com/user-attachments/assets/3c8d5e64-a40d-428f-a7d4-7b8fdcce1caf)
 
 
