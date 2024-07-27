@@ -1,5 +1,5 @@
 # GCP
-## App engine vs Cloud Run vs Cloud Bigtable, When to Choose Which
+## App engine vs Cloud Run, When to Choose Which
 ### App Engine:
 If you prioritize ease of use and managed infrastructure.
 Need strong integration with other GCP services.
@@ -12,7 +12,7 @@ Have unpredictable traffic patterns.
 ## In conclusion, both App Engine and Cloud Run have their strengths and weaknesses. The best choice depends on your specific application requirements, development preferences, and cost considerations.
 ![image](https://github.com/user-attachments/assets/e0675ae6-68c9-4cb0-af98-c0b2253d8859)
 
-## Cloud Datastore vs Cloud Storage, When to Use Which
+## Cloud Datastore vs Cloud Storage vs Cloud Bigtable, When to Use Which
 ### Cloud Datastore 
 Cloud Datastore is suitable for storing and managing structured data that requires frequent updates and strong consistency
 ### Cloud Storage
