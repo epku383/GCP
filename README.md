@@ -32,9 +32,9 @@ When you need a relational database for transactional workloads, such as e-comme
 ## Deployment Manager vs Cloud Build
 ### While both Deployment Manager and Cloud Build are tools for automating processes within GCP, they serve fundamentally different purposes.
 ### Deployment Manager:
-is for creating and managing your cloud infrastructure.
+It is for creating and managing your cloud infrastructure.
 ### Cloud Build:
-is for building and deploying your software applications.
+It is for building and deploying your software applications.
 ### Often, these tools are used together in a CI/CD pipeline: Cloud Build builds and tests your application, and Deployment Manager provisions the necessary infrastructure for deployment.
 ![image](https://github.com/user-attachments/assets/ba962e90-0a12-421a-97ff-ab865353398c)
 
