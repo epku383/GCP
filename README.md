@@ -1,5 +1,5 @@
 # GCP
-## App engine vs Cloud Run, When to Choose Which
+## App engine vs Cloud Run vs Cloud Bigtable, When to Choose Which
 ### App Engine:
 If you prioritize ease of use and managed infrastructure.
 Need strong integration with other GCP services.
@@ -17,8 +17,11 @@ Have unpredictable traffic patterns.
 Cloud Datastore is suitable for storing and managing structured data that requires frequent updates and strong consistency
 ### Cloud Storage
 Cloud Storage is ideal for storing and retrieving large amounts of unstructured data with varying access patterns.
+### Cloud Bigtable
+When you need to handle massive datasets with high performance and low latency, especially for time-series or analytical workloads.
+## Let's compare Cloud Datastore, Cloud Storage, and Cloud Bigtable
+![image](https://github.com/user-attachments/assets/3c8d5e64-a40d-428f-a7d4-7b8fdcce1caf)
 
-## Cloud Datastore and Cloud Storage are both storage solutions offered by Google Cloud Platform (GCP), but they serve distinct purposes and have different characteristics
-![image](https://github.com/user-attachments/assets/c8936eee-2cc0-41c0-acd8-e6e277748627)
+
 
 
