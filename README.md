@@ -37,6 +37,14 @@ It is for creating and managing your cloud infrastructure.
 It is for building and deploying your software applications.
 ### Often, these tools are used together in a CI/CD pipeline: Cloud Build builds and tests your application, and Deployment Manager provisions the necessary infrastructure for deployment.
 ![image](https://github.com/user-attachments/assets/ba962e90-0a12-421a-97ff-ab865353398c)
+## Standard vs Flexible Environments in App Engine, When to choose which
+### Standard environment:
+It is suitable for most web applications that require rapid scaling and easy management.
+### Flexible environment:
+It is ideal for applications with specific runtime requirements, large resource needs, or complex scaling patterns.
+### App Engine offers two primary environments for deploying applications: standard and flexible. Each has its own strengths and is suited for different types of workloads.
+![image](https://github.com/user-attachments/assets/68518a4f-b871-4b7c-8ffb-c90822358ddc)
+
 
 
 
