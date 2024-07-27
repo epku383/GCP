@@ -22,6 +22,14 @@ When you need to handle massive datasets with high performance and low latency, 
 ## Let's compare Cloud Datastore, Cloud Storage, and Cloud Bigtable
 #### Key Differences
 ![image](https://github.com/user-attachments/assets/3c8d5e64-a40d-428f-a7d4-7b8fdcce1caf)
+## BigQuery vs Cloud SQL, When to Use Which
+### BigQuery: 
+When you need to analyze large datasets, perform complex queries, and generate insights.
+### Cloud SQL: 
+When you need a relational database for transactional workloads, such as e-commerce, banking, or CRM applications.
+## In summary, BigQuery is designed for handling and analyzing large datasets, while Cloud SQL is optimized for transactional workloads The best choice depends on the specific requirements of your application.
+![image](https://github.com/user-attachments/assets/b6bc9771-2ba1-4ffa-bdba-a42d670e46c4)
+
 
 
 
