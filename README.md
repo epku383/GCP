@@ -18,7 +18,7 @@ Consider it for applications that require a managed environment, have specific r
 Ideal for microservices, event-driven applications, and workloads with unpredictable traffic patterns. If cost-efficiency and rapid scaling are priorities, Cloud Run is often the preferred choice.
 ### In summary, Cloud Run generally offers better performance, cost-efficiency, and scalability compared to App Engine Flexible.However, App Engine Flexible might still be suitable for specific use cases that require a fully managed environment and extensive customization.
 ![image](https://github.com/user-attachments/assets/07681890-5028-4e07-be88-f8319229df78)
-
+![image](https://github.com/user-attachments/assets/cfcbe5d9-02b8-4e2c-808b-6554ec3cee31)
 
 ### Both App Engine Flexible and Cloud Run are serverless platforms offered by Google Cloud Platform, but they have distinct characteristics and cater to different use cases.
 
