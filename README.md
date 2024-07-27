@@ -11,6 +11,16 @@ Prefer a container-based approach.
 Have unpredictable traffic patterns.
 ## In conclusion, both App Engine and Cloud Run have their strengths and weaknesses. The best choice depends on your specific application requirements, development preferences, and cost considerations.
 ![image](https://github.com/user-attachments/assets/e0675ae6-68c9-4cb0-af98-c0b2253d8859)
+## App Engine Flexible vs Cloud Run, When to Choose Which
+### App Engine Flexible: 
+Consider it for applications that require a managed environment, have specific runtime requirements, or need more control over the runtime environment. However, be aware of potential idle costs.
+### Cloud Run: 
+Ideal for microservices, event-driven applications, and workloads with unpredictable traffic patterns. If cost-efficiency and rapid scaling are priorities, Cloud Run is often the preferred choice.
+### In summary, Cloud Run generally offers better performance, cost-efficiency, and scalability compared to App Engine Flexible.However, App Engine Flexible might still be suitable for specific use cases that require a fully managed environment and extensive customizatio
+![image](https://github.com/user-attachments/assets/07681890-5028-4e07-be88-f8319229df78)
+
+
+### Both App Engine Flexible and Cloud Run are serverless platforms offered by Google Cloud Platform, but they have distinct characteristics and cater to different use cases.
 
 ## Cloud Datastore vs Cloud Storage vs Cloud Bigtable, When to Use Which
 ### Cloud Datastore 
